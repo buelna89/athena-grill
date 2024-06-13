@@ -180,8 +180,26 @@ input, label{
   padding: 10px 13%;
 }
 
+.menu-content .heading{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  
+}
+
 .menu-container h2{
   color: #000;
+}
+
+.menu-content .heading h5{
+  font-size: 25px;
+  margin: 0;
+}
+
+.menu-content .heading p{
+  font-size: 20px;
+  margin: 0;
 }
 
 .menu-header{
@@ -196,7 +214,7 @@ input, label{
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 2rem 1rem;
+  gap: 1rem 1rem;
 }
 
 .menu-items{
@@ -204,6 +222,7 @@ input, label{
   width: 350px;
   background: rgb(226, 225, 225);
   border-radius: 8px;
+  font-size: 20px;
 }
 
 .menu-container img{
