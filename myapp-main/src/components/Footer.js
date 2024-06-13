@@ -25,7 +25,7 @@ const Footer = () => {
             <ul>
             <li>Address: <br/> 15 Corte Amor, San Diego</li>
                 <li>Phone: <br/> +1 760 997 2157</li>
-                <li>Email: <br/> athanea@greek.com</li>
+                <li>Email: <br/> hbuelna89@hotmail.com</li>
             </ul>
             </div>
             <div>
